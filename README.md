@@ -5,7 +5,8 @@ Material for a short workshop to introduce lawyers to Data Mining
 
 * Simpson's Paradox - visualization of how data can be deceiving. http://vudlab.com/simpsons/
 * HMDA (Home Mortgage Disclosure Act) Data
- * https://www.youtube.com/watch?v=wR9Tsdqgmuk
+ * HMDA data in 3 min (video) - https://www.youtube.com/watch?v=wR9Tsdqgmuk
+ * Explore / get the data - http://www.consumerfinance.gov/hmda/explore
 
 * Explaining machine learning and data mining to a layman (Big Data Made Simple) - http://www.bigdata-madesimple.com/how-do-you-explain-machine-learning-and-data-mining-to-a-layman/
 
