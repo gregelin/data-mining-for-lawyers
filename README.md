@@ -1,6 +1,8 @@
 # data-mining-for-lawyers
 Material for a short workshop to introduce lawyers to Data Mining
 
+This material was originally prepared for The Future of Legal Technology Legal Tech Conference, Iron Tech Lawyers, Georgetown School of Law, April 23, 2015 http://www.law.georgetown.edu/continuing-legal-education/programs/academic-conferences/Legal-Tech.cfm
+
 # Links
 
 * Simpson's Paradox - visualization of how data can be deceiving. http://vudlab.com/simpsons/
