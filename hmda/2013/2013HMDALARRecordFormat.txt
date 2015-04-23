@@ -1,0 +1,45 @@
+As of Year 	4
+Respondent ID 	10
+Agency Code 	1
+Loan Type 	1
+Property Type 	1
+Loan Purpose 	1
+Occupancy 	1
+Loan Amount (000s) 	5
+Preapproval 	1
+Action Type 	1
+MSA/MD 	5
+State Code 	2
+County Code 	3
+Census Tract Number 	7
+Applicant Ethnicity 	1
+Co Applicant Ethnicity 	1
+Applicant Race 1 	1
+Applicant Race 2 	1
+Applicant Race 3 	1
+Applicant Race 4 	1
+Applicant Race 5 	1
+Co Applicant Race 1 	1
+Co Applicant Race 2 	1
+Co Applicant Race 3 	1
+Co Applicant Race 4 	1
+Co Applicant Race 5 	1
+Applicant Sex 	1
+Co Applicant Sex 	1
+Applicant Income (000s) 	4
+Purchaser Type 	1
+Denial Reason 1 	1
+Denial Reason 2 	1
+Denial Reason 3 	1
+Rate Spread 	5
+HOEPA Status 	1
+Lien Status 	1
+Edit Status 	1
+Sequence Number 	7
+Population 	8
+Minority Population % 	6
+FFIEC Median Family Income 	8
+Tract to MSA/MD Income % 	6
+Number of Owner-occupied units 	8
+Number of 1-to 4-Family units 	8
+Application Date Indicator 1

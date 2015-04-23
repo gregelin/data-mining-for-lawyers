@@ -9,6 +9,7 @@ This material was originally prepared for The Future of Legal Technology Legal T
 * HMDA (Home Mortgage Disclosure Act) Data
  * HMDA data in 3 min (video) - https://www.youtube.com/watch?v=wR9Tsdqgmuk
  * Explore / get the data - http://www.consumerfinance.gov/hmda/explore
+ * Download ALL data - https://www.ffiec.gov/hmda/hmdaproducts.htm
 
 * Explaining machine learning and data mining to a layman (Big Data Made Simple) - http://www.bigdata-madesimple.com/how-do-you-explain-machine-learning-and-data-mining-to-a-layman/
 

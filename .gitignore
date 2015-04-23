@@ -1,0 +1,12 @@
+assets/*
+html/grid/*
+
+# Vagrant
+**/.vagrant/**
+
+# application
+credentials.inc.php
+phpinfo.php
+
+# apple
+.DS_Store
